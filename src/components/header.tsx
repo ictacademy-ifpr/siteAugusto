@@ -38,8 +38,8 @@ export default function Header(props:Props){
                 <div className="container">
                     <Link href='/'>
                         <div className='imagesBox'>
-                            <div className='logoRodolfo'>
-                                <img src="/logoRodolfo.png"  alt='logo doprofRodolfo'/>
+                            <div className='logoAugusto'>
+                                <img src="/logoAugusto.png"  alt='logo do prof Augusto'/>
                             </div>
                         </div>
                     </Link>

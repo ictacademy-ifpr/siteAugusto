@@ -1,14 +1,14 @@
 [
     {
-        "title": "Gestor de Inovação Tecnológica (IFPR Campus Londrina)",
+        "title": "Coordenador da ICT Academy do IFPR - Campus Londrina",
         "description": "O Gestor de Inovação Tecnológica tem como objetivo estar em contato com as Instituições Privadas e Públicas de qualquer setor para estabelecer parcerias."
     },
     {
         "title": "Professor Efetivo (IFPR Campus Londrina)",
-        "description": "Leciona disciplinas de Arquitetura de Computadores, Redes de Computadores, Sistemas Operacionais e Segurança de Sistemas"
+        "description": "Leciona disciplinas de Laboratório de Computação I, Laboratório de Computação II e Desenvolvimento Web."
     },
     {
-        "title": "Doutor em Informática, Segurança Computacional (UFPR)",
-        "description": "Título: Gestão de informações médicas em Unidades Básicas de Saúde: análise de um caso real e proposta de um modelo de controle de uso de informações médicas sensível ao contexto"
+        "title": "Doutor em Ciência da Computação (UFRGS)",
+        "description": "Título: Modelagem de Aparência Baseada em Biofísica para Tecidos do Fígado Humano"
     }
 ]

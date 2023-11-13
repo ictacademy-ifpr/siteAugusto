@@ -37,13 +37,13 @@ const Home: NextPage = () => {
             {/* Alterando este primeiro SwiperSlide, altera o primeiro banner mostrado no site */}
           
             <SwiperSlide key={1} className="banner_event_3_responsivo">
-              <img src='Banner Rodolfo (1).png' alt='Banner Rodolfo 1'/>
+              <img src='Banner Augusto (1).png' alt='Banner Augusto 1'/>
             </SwiperSlide>
             <SwiperSlide key={2} className="banner_event_3_responsivo">
-              <img src='Banner Rodolfo (2).png' alt='Banner Rodolfo 2'/>
+              <img src='Banner Augusto (2).png' alt='Banner Augusto 2'/>
             </SwiperSlide>
             <SwiperSlide key={3} className="banner_event_3_responsivo">
-              <img src='Banner Rodolfo (3).png' alt='Banner Rodolfo 3'/>
+              <img src='Banner Augusto (3).png' alt='Banner Augusto 3'/>
             </SwiperSlide>
 
           </Swiper>

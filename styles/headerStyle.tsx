@@ -8,7 +8,7 @@ const HeaderStyle = styled.header`
         background-color: #fff;
     }
     .head{
-        padding: 5px 10px;
+        padding: 5px 50px;
         border-bottom: 0px solid #eaedf2 ;
         position: relative;
         z-index: 2;
@@ -21,7 +21,7 @@ const HeaderStyle = styled.header`
             display: flex ;
             align-items: center;
             justify-content: left;
-            margin-left: 10px;
+            margin-left: 0px;
             width: 80%;
 
             
@@ -31,9 +31,8 @@ const HeaderStyle = styled.header`
                 align-items: center;
                 width: 80%;
 
-                .logoRodolfo{
+                .logoAugusto{
                     padding: 5px;
-                    margin-right: 40px;
                     max-width: 150px;
                     width: 100%;
                     img{

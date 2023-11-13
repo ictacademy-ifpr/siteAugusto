@@ -35,7 +35,7 @@ const CollabsStyle = styled.div`
         }
         .name{
             font-size: 40px;
-            color: #024CAD;
+            color: #AF0000;
             margin-bottom: 10px;
         }
         .description_text{

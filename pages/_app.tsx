@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Rodolfo Barriviera</title> 
+        <title>Augusto L. P. Nunes</title> 
       </Head>
       <Component {...pageProps} />
     </>

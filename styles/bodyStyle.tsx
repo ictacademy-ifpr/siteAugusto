@@ -35,7 +35,7 @@ export const Banner = styled.section`
         width: 100%;
         height: 100%;
         
-        object-fit: cover;
+        object-fit: contain;
     }
     .banner_front{
         background-image: url('/bgbanner.jpg');
@@ -226,7 +226,7 @@ export const SectionCourses = styled.section`
         display: flex;
         align-items: center;
         justify-content: center;
-        background: #024CAD;
+        background: #200000;
         border-radius: 40px;
         max-width: 150px;
         width: 100%;

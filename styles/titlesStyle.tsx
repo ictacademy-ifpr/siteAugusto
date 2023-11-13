@@ -15,7 +15,7 @@ const TitlesStyle = styled.div`
         list-style-type: disc;
         font-size: 30px;
         margin-right: 20px;
-        color: #024CAD;
+        color: #AF0000;
         margin-bottom: 10px;
     }
     .description{
