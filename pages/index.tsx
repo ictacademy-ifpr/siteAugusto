@@ -30,6 +30,7 @@ const Home: NextPage = () => {
       
       <div className='BodyContent'>
         <Header class='white'/>
+        <div className='headerBase'></div>
 
         <Banner>
           <Swiper autoplay={{ delay: 6000 }} pagination={true} modules={[Pagination]} className="mySwiper" slidesPerView={1} spaceBetween={0} loop={true}>
